@@ -59,3 +59,5 @@ References: https://docs.rs/zcash_address/0.13.0/zcash_address/ and
 https://zips.z.cash/zip-0321 .
 
 The feature branch changes this README and is merged into main for the Git challenge.
+
+Verification branch: run python3 verification.py and capture all three output fields.
